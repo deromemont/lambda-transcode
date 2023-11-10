@@ -9,7 +9,7 @@ resource "aws_efs_access_point" "main" {
   file_system_id = aws_efs_file_system.main.id
 
   root_directory {
-    path = "/lambda"
+    path = "/"
     creation_info {
       owner_gid   = 0
       owner_uid   = 0
