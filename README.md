@@ -1,6 +1,6 @@
 # lambda-transcode
 
-This project is a POC for a lamda transcode solution
+This project is a POC for a lambda transcode solution
 
 The idea is to reduce the cost of a transcode and improve the speed of the transcocde too
 
